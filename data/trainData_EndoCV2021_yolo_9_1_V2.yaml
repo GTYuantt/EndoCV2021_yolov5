@@ -1,0 +1,9 @@
+# train and val data
+train: /home/greatbme/mydata/trainData_EndoCV2021_yolo_9_1_V2/images/train/  #  3312 images
+val: /home/greatbme/mydata/trainData_EndoCV2021_yolo_9_1_V2/images/val/  #  70 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'polyps' ]
